@@ -1,0 +1,5 @@
+module CJSC [system] {
+    header "/usr/include/webkitgtk-1.0/JavaScriptCore/JavaScript.h"
+    link "javascriptcore"
+    export *
+}
